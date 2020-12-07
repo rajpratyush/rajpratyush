@@ -53,14 +53,14 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-   <img align="centre" alt="Pratyush's Github Stats" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=gotham" alt="Pratyush Raj | Stats" />" /> 
+   <img align="centre" alt="Pratyush's Github Stats" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=radical" /> 
    <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/{rajpratyush}/count.svg" />
 </p>
-<!--   ![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=rajpratyush)
- -->
-<!-- ![Pratyush's github stats]() -->
+[![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=rajpratyush&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratyush)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
