@@ -53,7 +53,7 @@
 ***
 <html>
   <body>
-    <a href="https://resume.github.io/?rajpratyush">See my Github Journey</a>
+    <h3><a href="https://resume.github.io/?rajpratyush" target="_blank">See my Github Journey</a></h3>
   </body>
 </html>
 <details>
