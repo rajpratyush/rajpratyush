@@ -55,10 +55,10 @@
   <body>
     <h3><a href="https://resume.github.io/?rajpratyush" target="_blank">See my Github Journey</a></h3>
   </body>
-</html>
+</html><h3>
 <details>
   
- ### <summary>:zap:Pratyush's Github Stats</summary>
+<summary>:zap:Pratyush's Github Stats</summary>
    <img align="centre" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=radical" /> 
    <p align="center"> 
   Visitor count<br>
@@ -70,6 +70,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratyush)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </details>
+</h3>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
