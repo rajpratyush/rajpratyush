@@ -50,12 +50,9 @@
 <code><img width="26px" src="https://miro.medium.com/max/200/1*i_ncmAcN81MRMNRDcenKiw.png"></code>
 <code><img width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
 
-***
-<html>
-  <body>
-    <h3><a href="https://resume.github.io/?rajpratyush" target="blank">See My Github Journey</a></h3>
-  </body>
-</html><h3>
+*** 
+[See My Github Journey](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<h3>
 <details>
   
 <summary>:zap:Pratyush's Github Stats</summary>
