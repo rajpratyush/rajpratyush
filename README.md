@@ -50,7 +50,8 @@
 <code><img width="26px" src="https://miro.medium.com/max/200/1*i_ncmAcN81MRMNRDcenKiw.png"></code>
 <code><img width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
 
-
+***
+[![Pratyush's resume](https://resume.github.io/?rajpratyush)
 <details>
   <summary>:zap: Github Stats</summary>
    <img align="centre" alt="Pratyush's Github Stats" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=radical" /> 
