@@ -58,8 +58,8 @@
 </html>
 <details>
   
-  <summary>:zap: Github Stats</summary>
-   <img align="centre" alt="Pratyush's Github Stats" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=radical" /> 
+  <h3><summary>:zap: Pratyush's Github Stats</summary></h3>
+   <img align="centre" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=radical" /> 
    <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/{rajpratyush}/count.svg" />
