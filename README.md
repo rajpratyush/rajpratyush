@@ -51,7 +51,9 @@
 <code><img width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
 
 *** 
-[See My Github Journey](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<html>
+  <body>
+    <a href = "https://resume.github.io/?rajpratyush">See My Github Journey</a></body></html>
 <h3>
 <details>
   
