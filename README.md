@@ -23,7 +23,7 @@
 
 
 ## About me
--->
+<h2>--></h2>
 - 👉 Primary coding language: Python.
 - 😉 I’m currently working on my Portfolio.
 - 🔭 I’m currently diving deep 🤿 into my college coursework
