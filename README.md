@@ -51,7 +51,11 @@
 <code><img width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
 
 ***
-[![Pratyush's resume](https://resume.github.io/?rajpratyush)
+<html>
+  <body>
+    <a href="https://resume.github.io/?rajpratyush">See my Github Journey</a>
+  </body>
+</html>
 <details>
   
   <summary>:zap: Github Stats</summary>
