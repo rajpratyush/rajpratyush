@@ -51,14 +51,15 @@
 <code><img width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
 
 ***
-[![Pratyush's resume](https://resume.github.io/?rajpratyush)
+[![Pratyush's resume](https://resume.github.io/?rajpratyush)](https://github.com/resume/resume.github.com)
 <details>
+  
   <summary>:zap: Github Stats</summary>
    <img align="centre" alt="Pratyush's Github Stats" src="ttps://github-readme-stats.vercel.app/api?username=rajpratyush&show_icons=true&theme=radical" /> 
    <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/{rajpratyush}/count.svg" />
-
+ 
   
 [![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=rajpratyush&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
