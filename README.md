@@ -24,12 +24,13 @@
 
 ## About me
 ### -->
-- 👉 Primary coding language: Python.
-- 😉 I’m currently working on my Portfolio.
+- 👉 Primary coding language: Python, Javascript.
+- 👉 Primary Web Developement Setup : React.js, Express, PostgreSQL, AWS, Tailwind-CSS    
+- 😉 I’m currently working on enhancing my skillset.
 - 🔭 I’m currently diving deep 🤿 into my college coursework
-- 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning .
-- 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
-- 🤔 I’m looking for help with Flutter development.
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development using React.js.
+- 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Machine Learning)
+- 🤔 I’m looking for help with Web development.
 - 💬 Ask me about anything, I'm happy to help.
 - 🤩 Competitive Programmer 
 - 😄 Pronouns: He/Him.
