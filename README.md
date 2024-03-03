@@ -24,13 +24,13 @@
 
 ## About me
 ### -->
-- 👉 Primary coding language: Python, Javascript.
-- 👉 Primary Web Developement Setup : React.js, Express, PostgreSQL, AWS, Tailwind-CSS    
+- 👉 Primary coding language: Python, Javascript, Java.
+- 👉 Primary Web Developement Setup : React.js, Express.js, Node.js, SpringBoot, PostgreSQL, AWS, Tailwind-CSS    
 - 😉 I’m currently working on enhancing my skillset.
-- 🔭 I’m currently diving deep 🤿 into my college coursework
-- 🌱 I’m currently learning Data Structures and Algorithms, Web Development using React.js.
+- 🔭 I’m currently diving deep 🤿 into my Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development using React.js,  Mobile Development using React-Native.
 - 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Machine Learning)
-- 🤔 I’m looking for help with Web development.
+- 🤔 I’m looking for help with Mobile development.
 - 💬 Ask me about anything, I'm happy to help.
 - 🤩 Competitive Programmer 
 - 😄 Pronouns: He/Him.
